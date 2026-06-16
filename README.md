@@ -1,0 +1,2 @@
+# DESARROLLO-DE-UN-MODELO-DE-PREDICCI-N-DE-MATR-CULA-PARA-UNA-INSTITUCI-N-DE-EDUCACI-N-SUPERIOR
+La planificación académica en las instituciones de educación superior depende del número previsto de estudiantes inscritos por periodo y carrera. En la Pontificia Universidad Católica del Ecuador Sede Ambato (PUCESA), esta proyección se realiza con métodos empíricos, lo que limita la asignación de carga docente y la planificación de la estructura.
